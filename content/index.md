@@ -1,7 +1,8 @@
 ---
 date: 2016-03-09T00:11:02+01:00
 title: Office Visits
-weight: 10
+type: index
+weight: 0
 ---
 
 **Elected Official Office Visits 2017**
@@ -15,9 +16,9 @@ The ultimate goal of organizing around the issues you care about is to persuade 
 
 **Why Visit Your Elected Official**
 
-Visiting an elected official’s office and speaking with him or her might seem like a job for someone else. Here’s the thing, though: Elected officials want to hear from you. They make decisions based on what they hear from their constituents. Speaking directly with your elected officials in person puts the issue you care about on their radar. Meeting with them in person also helps you build a relationship with them and their staff, which is the first step in building trust and gaining their ear. 
+Visiting an elected official’s office and speaking with him or her might seem like a job for someone else. Here’s the thing, though: Elected officials want to hear from you. They make decisions based on what they hear from their constituents. Speaking directly with your elected officials in person puts the issue you care about on their radar. Meeting with them in person also helps you build a relationship with them and their staff, which is the first step in building trust and gaining their ear.
 
-Think about it this way: If elected officials don’t hear anything about the issue you care about, they don’t know people need them to make it a priority. 
+Think about it this way: If elected officials don’t hear anything about the issue you care about, they don’t know people need them to make it a priority.
 
 **PREPARING TO VISIT YOUR ELECTED OFFICIAL**
 
@@ -39,33 +40,33 @@ Elected officials make decisions about the issue you care about; however, not al
 
 **Learning more about ****y****our elected officials**
 
-{Use this chart/graphic/whatever David makes} to help you find the elected officials who represent you, how to get in touch with them for your office visit, and what they’ve said in the past about the issue you care about. 
+{Use this chart/graphic/whatever David makes} to help you find the elected officials who represent you, how to get in touch with them for your office visit, and what they’ve said in the past about the issue you care about.
 
 Federal level:
 
-* Represented by 
+* Represented by
 
     * One congressman or woman -- visit *[www.house.go*v](http://www.house.gov)* to find out who represents you*
 
     * Two senators-- *[www.senate.go*v](http://www.senate.gov)* to find out who represents you*
 
-* Every congressman or woman and senator has a website—after you find out who represents you at the federal level, find their official website to review their stances on the issues, office locations, phone numbers, and email addresses. 
+* Every congressman or woman and senator has a website—after you find out who represents you at the federal level, find their official website to review their stances on the issues, office locations, phone numbers, and email addresses.
 
-State level: 
+State level:
 
-State governments are organized differently based on each state’s constitution. That said, each state has a governor and a legislative body that makes laws for all citizens of that state. 
+State governments are organized differently based on each state’s constitution. That said, each state has a governor and a legislative body that makes laws for all citizens of that state.
 
 * Represented by
 
     * Governor: Your governor is your state’s highest ranking official—his or her responsibilities include, among many other duties, signing bills into law and ensuring the laws are carried out. Find out who your governor is **[her**e](https://www.usa.gov/states-and-territories).  [https://www.usa.gov/states-and-territories](https://www.usa.gov/states-and-territories)
 
-    * State legislature: State legislatures are the law-making bodies of each state’s government. Each state (except Nebraska) has two separate chambers or houses: the Senate, which is the smaller chamber, and the House of Representatives or Assembly, which is the larger chamber. Find out more about your state legislature and who represents you **[her**e](http://www.openstates.org). www.openstates.org 
+    * State legislature: State legislatures are the law-making bodies of each state’s government. Each state (except Nebraska) has two separate chambers or houses: the Senate, which is the smaller chamber, and the House of Representatives or Assembly, which is the larger chamber. Find out more about your state legislature and who represents you **[her**e](http://www.openstates.org). www.openstates.org
 
 Local level:
 
-Below the state level, there are counties and municipalities that generally take responsibility for parks and recreation services, police and fire departments, housing services, emergency medical services, municipal courts, transportation services (including public transportation), and public works (streets, sewers, snow removal, signage, and so forth). 
+Below the state level, there are counties and municipalities that generally take responsibility for parks and recreation services, police and fire departments, housing services, emergency medical services, municipal courts, transportation services (including public transportation), and public works (streets, sewers, snow removal, signage, and so forth).
 
-The structure of local government varies greatly, so search online to find out how it works, who represents you, and how to contact them at the local level. 
+The structure of local government varies greatly, so search online to find out how it works, who represents you, and how to contact them at the local level.
 
 Now that you know this, you should feel prepared to find out not only which official you will be visiting, but how to contact them as well.  Next, we will talk about the different kinds of office visits you can use when visiting your elected official.
 
@@ -143,7 +144,7 @@ Remember that amplifying your organizing activities is a key part of issue advoc
 
 After your office visit, you’ll want to make sure you amplify the work that you did. There are a few key ways to make sure you share your best practices, as well as share your successes and challenges, with your community members and organizers across the country.
 
-**Post the story of your visit on Connect. **Share your wrap-up in your local/state and national groups on Connect. Be sure to give some background on the issue you’re working on, where you’re working, some photos from your visit, and your favorite anecdotes from the visit. 
+**Post the story of your visit on Connect. **Share your wrap-up in your local/state and national groups on Connect. Be sure to give some background on the issue you’re working on, where you’re working, some photos from your visit, and your favorite anecdotes from the visit.
 
 **Amplify the visit online.** Use social media—especially Twitter, Facebook, and Instagram—to summarize the event as a whole, thank those who participated, and reinforce the overall message of the event. These posts should include photos, and can also include a call to take further action in the future, whether you want to promote an upcoming event or other way to get involved online.
 
@@ -155,7 +156,7 @@ After your office visit, you’ll want to make sure you amplify the work that yo
 
 The ultimate goal of issue organizing is to persuade elected officials to support your position on the issues. This means that it can be particularly effective to speak, and tell stories directly to, elected officials or their staff during an office visit. These visits can also be compelling earned media opportunities and provide an opportunity to generate valuable content to share online.
 
-Some may feel apprehensive by the prospect of visiting their elected officials’ offices. But don’t be nervous! Relax and remember that elected officials are people too. They represent you. Not only do  you have a right to express yourself to them, elected officials want to hear from their constituents. Have fun and keep a positive, cordial attitude! 
+Some may feel apprehensive by the prospect of visiting their elected officials’ offices. But don’t be nervous! Relax and remember that elected officials are people too. They represent you. Not only do  you have a right to express yourself to them, elected officials want to hear from their constituents. Have fun and keep a positive, cordial attitude!
 
 **Finding Out Who Represents You**
 
@@ -221,7 +222,7 @@ Office visits serve primarily to get your support for the issue onto the radar o
 
 **Amplify the visit online**. Use social media sites such as Facebook, Twitter, and Instagram to summarize the event as a whole, thank those who participated, and reinforce the overall message of the event. This content should include photos, and can also include a call to take further action in the future, whether that is attending an upcoming event or sharing content online.
 
-**Consider earned media**. Depending on the situation, earned media may be an appropriate and strategic way to amplify your office visit to the broader public. There are many factors to consider when deciding whether an event is media worthy - for some general guidelines on this, consult OFA’s Earned Media Guide. As with photos, the press may or may not be allowed in elected officials’ offices. If this is the case but you still consider your visit media worthy, consider hosting a short press conference outside the office before or after the visit. To keep the tenor positive, consider notifying the elected official’s office if you’ll be inviting members of the press. 
+**Consider earned media**. Depending on the situation, earned media may be an appropriate and strategic way to amplify your office visit to the broader public. There are many factors to consider when deciding whether an event is media worthy - for some general guidelines on this, consult OFA’s Earned Media Guide. As with photos, the press may or may not be allowed in elected officials’ offices. If this is the case but you still consider your visit media worthy, consider hosting a short press conference outside the office before or after the visit. To keep the tenor positive, consider notifying the elected official’s office if you’ll be inviting members of the press.
 
 Remember that amplifying your organizing activities is a key part of issue advocacy. Try to follow this mantra: Photos, or it didn’t happen.
 
@@ -236,4 +237,3 @@ We are always most effective when we talk about our issue by combining key facts
 **Personal stories** are examples of how a specific issue has impacted your life. A personal story is one of the most powerful tools we have for winning others over on the issues, because the story allows us to connect in a human way, put a human face on the issue, and make the issue less abstract and more concrete and accessible. As an example, if you have children and live in a coastal city, and your issue is climate change, you might tell a story about your growing concern that rising sea levels could displace your family or that of your children or grandchildren.
 
 In some cases, you may find it difficult to respond to statements made by elected officials or their staff in opposition to your issue. It’s okay if you’re not sure how to respond to these points. The key thing to remember is to bring the conversation back to the values, personal stories, and key facts that drive you to fight for this issue.
-

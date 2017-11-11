@@ -15,7 +15,7 @@ googleAnalytics = ""
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	repo_url = "https://github.com/ofa-toolkits/Office-visits"
 
 	version = "1.0.0"
 	logo = "images/logo.png"
@@ -31,8 +31,8 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
+    	primary = "light-blue"
+    	accent  = "light-blue"
 
     [params.font]
     	text = "Ubuntu"
@@ -41,34 +41,16 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "digitalcraftsman"
+	github  = "ofa-toolkit"
 	email   = "hello@email.com"
 
 
 [[menu.main]]
-	name   = "Material"
+	name   = "Office Visits"
 	url    = "/"
 	weight = 0
 
-[[menu.main]]
-	name   = "Office Visits"
-	url    = "office-visits/"
-	weight = 10
 
-[[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
-	weight = 30
-
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
 
 
 [blackfriday]
